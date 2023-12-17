@@ -1,5 +1,9 @@
 [![Build Status](https://travis-ci.org/tcharles-igt/clean-ts-api.svg?branch=master)](https://travis-ci.org/tcharles-igt/clean-ts-api)
 [![Coverage Status](https://coveralls.io/repos/github/tcharles-igt/clean-ts-api/badge.svg)](https://coveralls.io/github/tcharles-igt/clean-ts-api)
+[![Known Vulnerabilities](https://snyk.io/test/github/tcharles-igt/clean-ts-api/badge.svg)](https://snyk.io/test/github/tcharles-igt/clean-ts-api)
+![Dependabot](https://flat.badgen.net/dependabot/tcharles-igt/clean-ts-api?icon=dependabot)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 
 # **Clean Node API**
 
